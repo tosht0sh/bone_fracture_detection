@@ -5,3 +5,5 @@ bone.v1i.multiclass.zip
 ds2.zip
 dataset2/
 dataset3/
+*.pth
+*.jpg
